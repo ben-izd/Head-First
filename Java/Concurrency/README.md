@@ -1,5 +1,4 @@
 # Head First / Java / Concurrency
-Current Images:
 
 ![Java CountDownLatch](https://github.com/ben-izd/head-first/blob/main/Java/Concurrency/Images/CountDownLatch.jpg)
 
